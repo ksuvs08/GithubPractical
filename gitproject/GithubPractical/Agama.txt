@@ -1,4 +1,0 @@
-Agama Automation
-
-I am practicing automation.
-This is a new practical project.
